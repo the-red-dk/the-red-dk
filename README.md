@@ -1,5 +1,5 @@
 ## Hi there, I'm Daksha👋
-<hr>
+
 Welcome to my GitHub page
 
 ![](https://komarev.com/ghpvc/?username=the-red-dk&abbreviated=true)
