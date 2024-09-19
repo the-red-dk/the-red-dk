@@ -3,7 +3,9 @@
 Welcome to my GitHub page
 
 ![](https://komarev.com/ghpvc/?username=the-red-dk&abbreviated=true)
-
+<br><br>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=the-red-dk)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=the-red-dk)](https://git.io/streak-stats)
 <!-- Here are some ideas to get you started:
 
